@@ -6,9 +6,9 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
-MONTH_DATA = ['all', 'january', 'february', 'march', 'april', 'may', 'june']
+MONTH_DATA = ['all', 'anuary', 'february', 'march', 'april', 'may', 'june']
 
-DAY_DATA = ['all', 'monday', 'tuesday', 'wednesday', 'friday', 'saturday', 'sunday']
+DAY_DATA = ['All', 'Monday', 'Tuesday', 'Wednesday', 'Friday', 'Saturday', 'Sunday']
 
 def get_filters():
     """
@@ -18,7 +18,7 @@ def get_filters():
         (str) month - name of the month to filter by, or "all" to apply no month filter
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
-    print('Hello! Let\'s explore some US bikeshare data!')
+    print('Hello! Let us  explore some US bikeshare data!')
     # TO DO: get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     city_name = ''
     while city_name.lower() not in CITY_DATA:
