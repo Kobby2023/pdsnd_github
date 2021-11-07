@@ -11,12 +11,12 @@ This project focuses on pandas library usage and simple statistics methods to pe
 
 ### Files used
 
-* chicago.csv - Stored in the data folder, the chicago.csv file is the dataset containing all bikeshare information for the city of Chicago provided by Udacity.
+* Chicago.csv --- Stored in the data folder, the chicago.csv file is the dataset containing all bikeshare information for the city of Chicago provided by Udacity.
 
-* New_york_city.csv - Dataset containing all bikeshare information for the city of New York provided by Udacity.
+* New_york_city.csv --- Dataset containing all bikeshare information for the city of New York provided by Udacity.
 
 
-* Washington.csv - Dataset containing all bikeshare information for the city of Washington provided by Udacity. Note: This does not include the 'Gender' or 'Birth Year' data.
+* Washington.csv --- Dataset containing all bikeshare information for the city of Washington provided by Udacity. Note: This does not include the 'Gender' or 'Birth Year' data.
 
 
 
